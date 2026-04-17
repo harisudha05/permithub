@@ -1,0 +1,22 @@
+# Env files
+backend/.env
+backend/.env.*
+
+# Node
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Spring Boot
+target/
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
